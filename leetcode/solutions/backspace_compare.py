@@ -21,3 +21,4 @@ class Solution:
                 if x == '#' and len(stack2) > 0:
                     stack2.pop()
         return stack1 == stack2
+    # Mandatory

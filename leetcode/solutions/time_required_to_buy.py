@@ -24,4 +24,4 @@ class Solution:
             if ticket > 0:
                 queue.append((person, ticket))
         return 0
-        
+        # Mandatory

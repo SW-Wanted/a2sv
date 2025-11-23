@@ -26,3 +26,4 @@ class Solution:
             if all(student != sandwiches[0] for student in queue):
                 break
         return len(queue)
+    # Mandatory

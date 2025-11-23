@@ -26,4 +26,4 @@ class Solution:
                     stack.append(stack[-1] + stack[-2])
                     # print(stack)
         return sum(stack)
-        
+        # Mandatory

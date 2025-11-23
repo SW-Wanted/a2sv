@@ -13,3 +13,4 @@ class Solution:
             a.append(c)
             c = 0
         return a;
+# Mandatory

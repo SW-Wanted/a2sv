@@ -8,3 +8,4 @@ class Solution:
                 nums[j] = n
                 j += 1
         return j
+    # Mandatory

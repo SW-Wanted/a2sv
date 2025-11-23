@@ -11,4 +11,4 @@ class Solution:
                 if x.isalnum() and len(stack):
                     stack.pop()
         return "".join(stack)
-
+# Mandatory

@@ -12,3 +12,4 @@ class Solution:
                 return index
 
         return -1
+# Mandatory
