@@ -12,6 +12,7 @@ from solutions.time_required_to_buy import Solution
 from solutions.count_students import Solution
 from solutions.first_uniq_char import Solution
 from solutions.recent_counter import RecentCounter
+from solutions.pascal_triangle import Solution
 
 def test_remove_element():
     sol = Solution()
@@ -245,6 +246,11 @@ def test_recent_counter():
             output.append(rc.__init__())
     print(output)
         
+def test_pascal_triangle():
+    sol = Solution()
+    numRows = 6
+    triangle = sol.generate(numRows)
+    print(triangle)
 
 def main():
     # test_remove_element()
@@ -260,7 +266,8 @@ def main():
     # test_time_required_to_buy()
     # test_count_students()
     # test_first_uniq_char()
-    test_recent_counter()
+    # test_recent_counter()
+    test_pascal_triangle()
 
 if __name__ == "__main__":
     main()
