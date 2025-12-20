@@ -1,5 +1,5 @@
-# 📚 Competitive Programming & Learning Repository
-
+# A2SV | Africa to Silicon Valley
+## 📚 Competitive Programming & Learning Repository 
 This repository contains my personal journey and practice in **competitive programming** and **software development fundamentals**, using multiple platforms and problem sources.
 
 The goal of this repository is to:
